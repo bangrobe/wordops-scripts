@@ -1,3 +1,3 @@
-How to use backup script
-chmod +x backup-site.sh
-./backup-site.sh <domain_name>
+# Usage
+    chmod +x backup-site.sh
+    ./backup-site.sh <site_domain>
